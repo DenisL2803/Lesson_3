@@ -1,0 +1,72 @@
+main{
+	color: green;
+}
+.text h2{
+	color: blue;
+}
+mark{
+	color: red;
+}
+.style text{
+	color: green;
+}
+.list{
+	color: green;
+}
+.game h2{
+	color: blue;
+}
+.Development p{
+	color: green;
+}
+.history h2{
+	color: blue;
+}
+.survival h2{
+	color: blue;
+}
+.Tests h2{
+	color: blue;
+}
+.Development h2{
+	color: blue;
+}
+.Criticism h2{
+	color: blue;
+}
+.Afterleaving h2{
+	color: blue;
+}
+.imglongdark{
+	font-size: 30px;
+}
+.Tests img{
+	height: 200px;
+}
+.game img{
+	height: 200px;
+}
+.game p{
+	color: green;
+}
+.history p{
+	color: green;
+}
+.survival li{
+	color: green;
+}
+.Tests p{
+	color: green;
+}
+.Development p{
+	color: green;
+}
+.Criticism p{
+	color: green;
+}
+.Afterleaving p{
+	color: green;
+}
+.list2 ol{
+	color: green;
+}
